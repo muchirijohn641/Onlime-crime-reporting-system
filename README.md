@@ -1,1 +1,1 @@
-# project1
+The online crime reporting system is a web-based application designed to streamline and enhance the process of reporting criminal activities to law enforcement agencies. This system allows individuals to report crimes conveniently and securely from their computers or mobile devices, eliminating the need for in-person visits to police stations. 
